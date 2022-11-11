@@ -1,5 +1,8 @@
 #! /bin/bash	
 
+# Cavan Fowler
+
+## This script allows users to count the number of occurances of a singular word in a file
 ## needs user to supply argument to script before executing
 
 if [[ $# < 1 ]] ; then 
