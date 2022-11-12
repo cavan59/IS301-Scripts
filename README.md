@@ -1,5 +1,8 @@
 # script1CountFiles
-counts number of files in a directory
+Counts number of files in a directory
 
 # beanstojeans
-changes all instances of beans to jeans in all text files of a directory
+Changes all instances of beans to jeans in all text files of a directory
+
+# awkscript
+Simple script to enter what column you want to output of a text file. Want to add to this and allow user to input what ever text file they would like to use.
