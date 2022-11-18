@@ -9,3 +9,6 @@ Simple script to enter what column you want to output of a text file. Want to ad
 
 # wordcount
 Take a file and counts the number of times a word occurs within a text file.
+
+# Makefile
+Used to build and deploy wordcount.zip
